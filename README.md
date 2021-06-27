@@ -7,6 +7,7 @@
 - 🥅 2021 Goals: Learn Artificial Intelligence (AI)
 - ⚡ Fun fact: I love watching movies.
 - 💬 Ask me about AI, ML, Flutter , Flask
+- 💬 [Profile Summery](https://profile-summary-for-github.com/user/sanji185)
 - 📫 Reach me at sanjeev.thanarasa@gmail.com
 
 ### Languages and Tools:
@@ -33,9 +34,11 @@
 <br />
 
 ### Profile & Stats:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sanji185)
 
-[![Nisanthan's github stats](https://github-readme-stats.vercel.app/api?username=sanji185&count_private=true&show_icons=true&theme=vue&hide=stars)](https://github.com/Nishaanthan)
-[![Nisanthan's github programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanji185&count_private=true&show_icons=true&theme=vue&layout=compact)](https://github.com/Nishaanthan)
+[![Nisanthan's github stats](https://github-readme-stats.vercel.app/api?username=sanji185&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/sanji185)
+[![Nisanthan's github programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanji185&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/sanji185)
+
 
 ### Connect with me:
 
@@ -55,3 +58,6 @@
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/sanjeev-thanarasa
 [websiteprofile]: https://www.sanjeev.me/#resume
+
+
+https://profile-summary-for-github.com/user/sanji185
