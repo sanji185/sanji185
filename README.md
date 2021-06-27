@@ -7,7 +7,6 @@
 - 🥅 2021 Goals: Learn Artificial Intelligence (AI)
 - ⚡ Fun fact: I love watching movies.
 - 💬 Ask me about AI, ML, Flutter , Flask
-- 💬 [Profile Summery](https://profile-summary-for-github.com/user/sanji185)
 - 📫 Reach me at sanjeev.thanarasa@gmail.com
 
 ### Languages and Tools:
