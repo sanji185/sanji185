@@ -1,6 +1,6 @@
 ### Hi there, I'm Sanjeev  T - aka [ Sanjeev Thanarasa ](https://www.sanjeev.me) 👋
 
-## I'm a Learning AI/ML Engineer also Mediator of Web Development and a Professional of Mobile Development !
+## I'm a Learning AI/ML Engineer, Web Development Mediator and Mobile Development Specialist !
 - 🔭 I’m currently working as an Software Engineer [CyberWarders]() !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software developers
