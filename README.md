@@ -1,13 +1,14 @@
 ### Hi there, I'm Sanjeev  T - aka [ Sanjeev Thanarasa ](https://www.sanjeev.me) 👋
 
 ## I'm a Learning AI/ML Engineer, Web Development Mediator and Mobile Development Specialist !
-- 🔭 I’m currently working as an Software Engineer [CyberWarders]() !
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other software developers
-- 🥅 2021 Goals: Learn Artificial Intelligence (AI)
-- ⚡ Fun fact: I love watching movies.
-- 💬 Ask me about AI, ML, Flutter , Flask
-- 📫 Reach me at sanjeev.thanarasa@gmail.com
+- 🔭 I'm currently employed by [CyberWarders]() as a Software Engineer!
+- 🌱 I'm currently acquiring knowledge of everything. 🤣
+- 👯 I'm looking for opportunities to work with other software developers. 
+- 🥅 2021 Targets: Acquire Knowledge of Artificial Intelligence (AI) 
+- ⚡ Interesting fact: I enjoy watching movies. 
+- 💬 Inquire about artificial intelligence, machine learning, Flutter, or Flask. 
+- 📫 [Sanjeev Thanarasa]() can be reached at sanjeev.thanarasa@gmail.com.
+
 
 ## My skills
 
