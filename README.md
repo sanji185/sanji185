@@ -1,7 +1,7 @@
 ### Hi there, I'm Sanjeev  T - aka [ Sanjeev Thanarasa ](https://www.sanjeev.me) 👋
 
 ## I'm a Learning AI/ML Engineer, Web Development Mediator and Mobile Development Specialist !
-- 🔭 I'm currently employed by [CyberWarders.PVT]() as a Software Engineer!
+- 🔭 I'm currently employed by [CyberWarders Software Company]() as a Software Engineer!
 - 🌱 I'm currently acquiring knowledge of everything. 🤣
 - 👯 I'm looking for opportunities to work with other software developers. 
 - 🥅 2021 Targets: Acquire Knowledge of Artificial Intelligence (AI) 
