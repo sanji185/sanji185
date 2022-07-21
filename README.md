@@ -39,10 +39,9 @@ https://profile-summary-for-github.com/user/sanji185)
 <br />
 <br />
 
----
 [website]: https://www.sanjeev.me
 [twitter]: https://twitter.com/sanjeev
-[youtube]: https://youtube.com/
+[youtube]: https://www.youtube.com/channel/UCJkOZ4fVu4dD5UzWT1UGGww
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/sanjeev-thanarasa
 [websiteprofile]: https://www.sanjeev.me/#resume
