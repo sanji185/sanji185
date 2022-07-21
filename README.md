@@ -1,8 +1,6 @@
 ### Hi there, I'm Sanjeev  T - aka [ Sanjeev Thanarasa ](https://www.sanjeev.me) 👋
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=pasanpula&label=Profile%20views&color=0e75b6&style=flat" alt="pasanpula" /> </p>
-
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Cookie&size=34&duration=8000&color=F7D594&center=true&vCenter=true&height=48&lines=University+Student;Frontend+developer;Flutter+enthusiast;React+Lover">
+<p align="left">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Cookie&size=34&duration=8000&color=F7D594&center=true&vCenter=true&height=48&lines=University+Student;Frontend+developer;AI+enthusiast;Flutter+Lover">
 </p>
 
 
