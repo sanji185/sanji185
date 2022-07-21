@@ -1,7 +1,4 @@
-### Hi there, I'm Sanjeev  T - aka [ Sanjeev Thanarasa ](https://www.sanjeev.me) 👋
-<p align="left">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Cookie&size=34&duration=8000&color=F7D594&center=true&vCenter=true&height=48&lines=University+Student;Frontend+developer;AI+enthusiast;Flutter+Lover">
-</p>
+### Hi there, I'm Sanjeev  T - aka [ Sanjeev Thanarasa ](https://www.sanjeev.me) 👋 <img src="https://readme-typing-svg.herokuapp.com?font=Cookie&size=34&duration=8000&color=F7D594&center=true&vCenter=true&height=48&lines=University+Student;Frontend+developer;Artificial+Intelligence+Enthusiast;Flutter+Lover">
 
 
 ## I'm a Learning AI/ML Engineer, Web Development Mediator and Mobile Development Specialist !
@@ -26,13 +23,14 @@
 ### Profile & Stats:
 <img width="40px" padding-bottom=15px src="https://user-images.githubusercontent.com/59352357/123560294-f8088c80-d7be-11eb-9d14-69ab9fefe501.png" /> <img src="https://profile-counter.glitch.me/sanji185/count.svg" /> <img width="40px" padding-bottom=15px src="https://user-images.githubusercontent.com/59352357/123560461-e4115a80-d7bf-11eb-9b67-a65f2d0d1f06.png" />
 
-[![Nisanthan's github stats](https://github-readme-stats.vercel.app/api?username=sanji185&count_private=true&show_icons=true&theme=chartreuse-dark)](
+[![Sanjeev's github stats](https://github-readme-stats.vercel.app/api?username=sanji185&count_private=true&show_icons=true&theme=chartreuse-dark)](
 https://profile-summary-for-github.com/user/sanji185)
-[![Nisanthan's github programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanji185&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact)](
+[![Sanjeev's github programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanji185&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact)](
 https://profile-summary-for-github.com/user/sanji185)
 
 
-### Connect with me:
+&nbsp;
+## 🔗Connect with me
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
