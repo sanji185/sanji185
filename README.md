@@ -1,4 +1,4 @@
-### Hi there, I'm Sanjeev  T - aka [ Sanjeev Thanarasa ](https://www.sanjeev.me) 👋 <img src="https://readme-typing-svg.herokuapp.com?font=Cookie&size=34&duration=8000&color=F7D594&center=true&vCenter=true&height=48&lines=University+Student;Frontend+developer;Artificial+Intelligence+Enthusiast;Flutter+Lover">
+### Hi there, I'm Sanjeev  T - aka [ Sanjeev Thanarasa ](https://www.sanjeev.me) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <img src="https://readme-typing-svg.herokuapp.com?font=Cookie&size=34&duration=8000&color=F7D594&center=true&vCenter=true&height=48&lines=University+Student;Frontend+developer;Artificial+Intelligence+Enthusiast;Flutter+Lover">
 
 
 ## I'm a Learning AI/ML Engineer, Web Development Mediator and Mobile Development Specialist !
